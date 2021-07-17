@@ -8,9 +8,10 @@ Welcome to where my coding side projects live. I love them, even if sometimes th
 You can find my photos <a href="http://bethcrane.photos">here</a>, or my collection of interviews with interesting folks in STEM* <a href="https://fibonaccisequinsblog.com/">here</a> if you're curious about some of the other things I get up to. 
 
 ### I get excited about opportunities that:
-- are with companies/organizations that are positively impacting the world
+- work with companies/organizations that are positively impacting the world
 - tackle difficult questions around the role of technology in society
-- allow me to constantly operate at the edge of my abilities, stretching/growing my skills
+- prioritize empathy and healthy+supportive people management
+- allow me to operate at the edge of my abilities, stretching+growing my skills
 - enable me to explore the world and live in different places (e.g. having international offices, enabling remote work for a few months each year)
 - benefit from an interest in communication/organizational psychology
 - use new technology to solve problems in previously-impossible ways
